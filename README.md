@@ -10,7 +10,7 @@ https://purdue0-my.sharepoint.com/:f:/g/personal/solimana_purdue_edu/EjidCzC3Lst
 ## Matlab : 
 <ol>
   <li> Download experiemtal Data </li>
-  <li> Run eskf_script.m</li>
+  <li> Run prosthesis_code/MATLAB/eskf_script.m</li>
 </ol>
 
 
@@ -27,7 +27,7 @@ https://purdue0-my.sharepoint.com/:f:/g/personal/solimana_purdue_edu/EjidCzC3Lst
 
 <ol>
   <li> Download experiemtal Data </li>
-  <li> Run eskf_ankle_script.m</li>
+  <li> Run human_code/eskf_ankle_script.m</li>
 </ol>
 
 #
