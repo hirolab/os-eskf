@@ -3,7 +3,7 @@ Error State Kalman Filter for estimating gait kinematics through 2-IMUs . Thanks
 
 # 
 # Link to experiemental data
-https://purdue0-my.sharepoint.com/:f:/g/personal/solimana_purdue_edu/EjidCzC3LstOjabBImk5hmUBirgI_VCTutmmQiabRuZi4w?e=swG61X
+https://purr.purdue.edu/publications/4012/about?v=1
 
 # 
 # Prosthesis implementation
